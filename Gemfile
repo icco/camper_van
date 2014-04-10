@@ -1,5 +1,7 @@
 source "http://rubygems.org"
 
+gem 'firering', :github => 'icco/firering', :branch => 'fix_logging_bug'
+
 # Specify your gem's dependencies in camper_van.gemspec
 gemspec
 
